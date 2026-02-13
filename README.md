@@ -1,3 +1,8 @@
 # Semantic Domain for Biblical (Koine) Greek
 **This project will contain models that aid in the analysis of semantic domain for words that occur in the bible. My goal is to help provide a range of possible interpretations and perhaps even weights to help prioritize the most likely to the least likely interpretation.**
 
+# What is a Semantic Domain?
+This concept stretches across linquistics, lexicography, and social sciences. The common concept which connects each of them is the idea that a word can have a range of meanings. For instance if I said "He ran really fast" and then later said, "he ran that code really fast", the word "ran" can mean two different things. The set of meanings that you can possibly use to interpret the word "ran" is the semantic domain. There is some uniqueness within each of the disciplines that reference this concept. For this project, we primarily care about linguistic and lexicographal uses of the terms.
+
+# Why focus on biblical Greek?
+I am a Christian. I want to understand the bible. I understand that even some non Christians have a vested interest in understanding the bible. A key part of this is understanding the possible and most likely interpretations of a certain word that is used in the bible. Biblical scholars often try to communicate the possible differences in interpretations for a given word and context so that we (laymen) can understand all possible interpretations of the passage. Currently you have to purchase lexicons and other upper level works to get reliable semantic domains. My hope is to make this an accessible way to check semantic domains for the laity.
